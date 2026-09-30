@@ -15,7 +15,7 @@ How to run:
     javac StackQueueLinkedList.java
     java StackQueueLinkedList
 
-## 🔢 Task 2: 2D Array and Circular Queue using Array
+## 🔗 Task 2: 2D Array and Circular Queue using Array
 Folder: Task2-2DArray-CircularQueue
 
 - 2D array: input, display, row sums and column sums
